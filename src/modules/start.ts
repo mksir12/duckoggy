@@ -42,12 +42,12 @@ export async function start(ctx) {
     [
       {
         text: `👨🏻‍🔧 ${langs.support}`,
-        url: `https://t.me/Miss_DuckbotSupport`,
+        url: `https://t.me/about_oggy`,
         hide: true,
       },
       {
-        text: `📰 ${langs.news}`,
-        url: `https://t.me/Miss_DuckbotInfo`,
+        text: `📰 ${langs.Mᴏᴠɪᴇ Gʀᴏᴜᴩ}`,
+        url: `https://t.me/kmcrp_movie`,
         hide: true,
       },
     ],
